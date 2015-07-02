@@ -1,7 +1,7 @@
 ###############################
 #PART A: import and read in the FASTA file
-import sys
-fasta_infile = open(sys.argv[1],'r') #infile is a FASTA format file and a command line arg
+#import sys
+fasta_infile = open("UEvents_Date_sort_only.txt",'r') #infile is a FASTA format file and a command line arg
 fasta_list = fasta_infile.readlines()
 
 #this readlines function will create a list where each argument is a string
@@ -12,7 +12,6 @@ fasta_list = fasta_infile.readlines()
 
 ##############################
 sequences_only_list = [] #create a new list that will house the sequences only
-
 
 for i in xrange(1, len(fasta_list),2): #syntax is xrange(start, end, increment)
 	sequences_only_list.append(fasta_list[i].strip())
@@ -43,9 +42,9 @@ def compare_to_ref(reference,seq):
 ##########################
 #WRITE THE OUTPUT TO A FILE
 #Remember to create the file in the correct directory first
-final_output_file = open("binaryIHNoutput.txt", 'w')	
+#final_output_file = open("binaryIHNoutput_FDdate_sort_only.txt", 'w')	
 reference1 = sequences_only_list[0]
 for seq in sequences_only_list[1:]:
 	binary_output = compare_to_ref(reference1, seq)
-	final_output_file.write(binary_output) #only write the file once to avoid overwriting
+	#final_output_file.write(binary_output) #only write the file once to avoid overwriting
 

@@ -20,7 +20,7 @@ import numpy as np
 
 ################################
 #OPEN FILE
-seq_string_list = open("binaryIHNoutput.txt").read().splitlines()
+seq_string_list = open("binaryIHNoutput_FDdate_sort_only.txt").read().splitlines()
 #print seq_string_list[1:5]
 
 ################################
@@ -44,4 +44,4 @@ seq_array = np.array(outer_list)
 
 seq_comp_image = plt.spy(seq_array, markersize=2, color="Black", mec="Black")
 seq_comp_image.axes.get_yaxis().set_ticks([]) #ticks as empty list causes the axis to hide
-plt.savefig("trialIHNfig.pdf") #may need to add in file path if not in pwd
+plt.savefig("/Users/allisonblack/Desktop/seqcomp_FD_DateSortOnly.pdf") #may need to add in file path if not in pwd
