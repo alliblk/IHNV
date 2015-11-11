@@ -1,7 +1,8 @@
 # IHNVcode
 This repo contains data and code used for evolutionary analysis of Infectious Hematopoietic Necrosis Virus.
 
-Data Files:
+**Data Files**
+
 There are 4 data files. Each are .txt files with fasta formatted sequences.
 One file contains all 114 unique U genogroup sequence types detected within the study, plus an outgroup taxon.
 One file contains sequences for all 619 U events, sorted by date.
@@ -10,9 +11,9 @@ The files contain aligned sequences. Each sequence is 303nt long.
 Each taxon name contains the isolation year, the unique sequence identifier, the subgroup, and a random number so that no taxon names repeat in that order.
 
 
-*Analysis Pipeline*:
+**Analysis Pipeline**
 
-Phylogenetic Inference:
+Phylogenetic Inference
 
 Coalescent phylogenies were inferred in BEAST using the All U events data, or the UC and UP events data separately, as input files.
 Maximum Likelihood phylogenies were inferred using the 114 unique genotypes data with an M genotype outgroup sequence.
