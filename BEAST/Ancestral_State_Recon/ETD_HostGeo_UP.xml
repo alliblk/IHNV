@@ -1,0 +1,1545 @@
+<beast>
+	<taxa id="taxa">
+		<taxon id="1971_mG018U_UP_1">
+			<date value="1971.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="1973_mG018U_UP_2">
+			<date value="1973.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1977_mG003U_UP_12">
+			<date value="1977.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="1980_mG035U_UP_13">
+			<date value="1980.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1981_mG003U_UP_15">
+			<date value="1981.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1981_mG028U_UP_16">
+			<date value="1981.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1982_mG003U_UP_20">
+			<date value="1982.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="1982_mG003U_UP_18">
+			<date value="1982.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="1982_mG030U_UP_19">
+			<date value="1982.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1983_mG045U_UP_21">
+			<date value="1983.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1984_mG002U_UP_24">
+			<date value="1984.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1984_mG003U_UP_23">
+			<date value="1984.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1984_mG003U_UP_22">
+			<date value="1984.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1984_mG028U_UP_25">
+			<date value="1984.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1986_mG003U_UP_31">
+			<date value="1986.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1986_mG054U_UP_32">
+			<date value="1986.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1987_mG002U_UP_41">
+			<date value="1987.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1987_mG029U_UP_44">
+			<date value="1987.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1988_mG003U_UP_51">
+			<date value="1988.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="1988_mG028U_UP_52">
+			<date value="1988.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1988_mG050U_UP_47">
+			<date value="1988.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1988_mG051U_UP_50">
+			<date value="1988.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1989_mG035U_UP_58">
+			<date value="1989.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1989_mG053U_UP_61">
+			<date value="1989.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="1989_mG053U_UP_62">
+			<date value="1989.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1990_mG002U_UP_67">
+			<date value="1990.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1990_mG019U_UP_65">
+			<date value="1990.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1990_mG019U_UP_66">
+			<date value="1990.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1990_mG026U_UP_64">
+			<date value="1990.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1990_mG028U_UP_69">
+			<date value="1990.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1990_mG051U_UP_68">
+			<date value="1990.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1992_mG002U_UP_78">
+			<date value="1992.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="1992_mG019U_UP_81">
+			<date value="1992.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1993_mG019U_UP_84">
+			<date value="1993.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1994_mG002U_UP_88">
+			<date value="1994.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1994_mG002U_UP_91">
+			<date value="1994.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1994_mG002U_UP_102">
+			<date value="1994.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1994_mG002U_UP_86">
+			<date value="1994.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1994_mG043U_UP_87">
+			<date value="1994.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1995_mG002U_UP_103">
+			<date value="1995.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1995_mG017U_UP_114">
+			<date value="1995.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1996_mG003U_UP_118">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1996_mG003U_UP_117">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1996_mG017U_UP_133">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1996_mG025U_UP_120">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1996_mG025U_UP_119">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1996_mG027U_UP_116">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1996_mG027U_UP_126">
+			<date value="1996.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1997_mG003U_UP_139">
+			<date value="1997.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="1997_mG023U_UP_135">
+			<date value="1997.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1997_mG055U_UP_134">
+			<date value="1997.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1998_mG002U_UP_149">
+			<date value="1998.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1998_mG025U_UP_148">
+			<date value="1998.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1999_mG002U_UP_176">
+			<date value="1999.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1999_mG002U_UP_177">
+			<date value="1999.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="1999_mG002U_UP_175">
+			<date value="1999.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2000_mG002U_UP_212">
+			<date value="2000.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2000_mG002U_UP_203">
+			<date value="2000.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2000_mG002U_UP_206">
+			<date value="2000.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2000_mG002U_UP_213">
+			<date value="2000.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2000_mG002U_UP_204">
+			<date value="2000.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2000_mG003U_UP_211">
+			<date value="2000.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2001_mG127U_UP_228">
+			<date value="2001.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2002_mG002U_UP_265">
+			<date value="2002.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2002_mG136U_UP_282">
+			<date value="2002.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="2002_mG281U_UP_249">
+			<date value="2002.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2003_mG002U_UP_297">
+			<date value="2003.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2003_mG095U_UP_304">
+			<date value="2003.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2003_mG184U_UP_296">
+			<date value="2003.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2003_mG184U_UP_298">
+			<date value="2003.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2003_mG282U_UP_299">
+			<date value="2003.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2004_mG002U_UP_364">
+			<date value="2004.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2004_mG002U_UP_347">
+			<date value="2004.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2004_mG002U_UP_366">
+			<date value="2004.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2004_mG040U_UP_360">
+			<date value="2004.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2004_mG268U_UP_342">
+			<date value="2004.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2006_mG148U_UP_472">
+			<date value="2006.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2006_mG184U_UP_468">
+			<date value="2006.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2006_mG197U_UP_506">
+			<date value="2006.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2006_mG269U_UP_469">
+			<date value="2006.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2007_mG284U_UP_518">
+			<date value="2007.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2009_mG050U_UP_628">
+			<date value="2009.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2009_mG050U_UP_576">
+			<date value="2009.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2009_mG050U_UP_580">
+			<date value="2009.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2009_mG179U_UP_629">
+			<date value="2009.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2009_mG184U_UP_567">
+			<date value="2009.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG002U_UP_729">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG050U_UP_660">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2010_mG050U_UP_654">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG050U_UP_653">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG050U_UP_730">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG050U_UP_634">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG050U_UP_656">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2010_mG233U_UP_732">
+			<date value="2010.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG002U_UP_820">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_782">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_746">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_899">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_750">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_748">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_903">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_822">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_908">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_901">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_754">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050U_UP_783">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050UmG002U_UP_747">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050UmG260U_UP_900">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2011_mG050UmG261U_UP_904">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2011_mG159U_UP_865">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="2011_mG249U_UP_905">
+			<date value="2011.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG002U_UP_1046">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_1086">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_970">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				chin
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_1040">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_925">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_1079">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_1047">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				mykiss
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_928">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_955">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050U_UP_952">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050UmG250U_UP_1085">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG050UmG270U_UP_949">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG250U_UP_1088">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG250U_UP_957">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG250U_UP_1084">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG265U_UP_1092">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG265U_UP_1080">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nondom
+			</attr>
+		</taxon>
+		<taxon id="2012_mG271U_UP_1038">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG271U_UP_924">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG271U_UP_953">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG271UHH_UP_923">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2012_mG285U_UP_1039">
+			<date value="2012.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG050U_UP_1103">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG050U_UP_1174">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG265U_UP_1148">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG265U_UP_1098">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG265U_UP_1200">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG265U_UP_1105">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG271U_UP_1110">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG274U_UP_1094">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG274U_UP_1093">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				CRB
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG277U_UP_1106">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+		<taxon id="2013_mG278U_UP_1097">
+			<date value="2013.0" direction="forwards" units="years"/>
+			<attr name="binaryGeo">
+				coastal
+			</attr>
+			<attr name="species">
+				nerka
+			</attr>
+		</taxon>
+	</taxa>
+	<generalDataType id="binaryGeo.dataType">
+		<state code="CRB"/>
+		<state code="coastal"/>
+	</generalDataType>
+	<generalDataType id="species.dataType">
+		<state code="chin"/>
+		<state code="nondom"/>
+		<state code="mykiss"/>
+		<state code="nerka"/>
+	</generalDataType>
+	<attributePatterns id="binaryGeo.pattern" attribute="binaryGeo">
+		<taxa idref="taxa"/>
+		<generalDataType idref="binaryGeo.dataType"/>
+	</attributePatterns>
+	<attributePatterns id="species.pattern" attribute="species">
+		<taxa idref="taxa"/>
+		<generalDataType idref="species.dataType"/>
+	</attributePatterns>
+
+	<!-- INSERT EMP TREE DISTRIBUTION HERE -->
+	<empiricalTreeDistributionModel id="treeModel" fileName="UP_BS10_strict.trees">
+		<taxa idref="taxa"/>
+	</empiricalTreeDistributionModel>	
+	<statistic id="treeModel.currentTree" name="Current Tree">
+		<empiricalTreeDistributionModel idref="treeModel"/>
+	</statistic>
+	
+	<generalSubstitutionModel id="binaryGeo.model" randomizeIndicator="false">
+		<generalDataType idref="binaryGeo.dataType"/>
+		<frequencies>
+			<frequencyModel id="binaryGeo.frequencyModel" normalize="true">
+				<generalDataType idref="binaryGeo.dataType"/>
+				<frequencies>
+					<parameter id="binaryGeo.frequencies" dimension="2"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="binaryGeo.rates" dimension="2" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="binaryGeo.indicators" dimension="2" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	
+	<sumStatistic id="binaryGeo.nonZeroRates" elementwise="true">
+		<parameter idref="binaryGeo.indicators"/>
+	</sumStatistic>
+	<productStatistic id="binaryGeo.actualRates" elementwise="false">
+		<parameter idref="binaryGeo.indicators"/>
+		<parameter idref="binaryGeo.rates"/>
+	</productStatistic>
+	<siteModel id="binaryGeo.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="binaryGeo.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<generalSubstitutionModel id="species.model" randomizeIndicator="false">
+		<generalDataType idref="species.dataType"/>
+		<frequencies>
+			<frequencyModel id="species.frequencyModel" normalize="true">
+				<generalDataType idref="species.dataType"/>
+				<frequencies>
+					<parameter id="species.frequencies" dimension="4"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="species.rates" dimension="12" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="species.indicators" dimension="12" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="species.nonZeroRates" elementwise="true">
+		<parameter idref="species.indicators"/>
+	</sumStatistic>
+	<productStatistic id="species.actualRates" elementwise="false">
+		<parameter idref="species.indicators"/>
+		<parameter idref="species.rates"/>
+	</productStatistic>
+	<siteModel id="species.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="species.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<ancestralTreeLikelihood id="binaryGeo.treeLikelihood" stateTagName="binaryGeo.states">
+		<attributePatterns idref="binaryGeo.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="binaryGeo.siteModel"/>
+		<generalSubstitutionModel idref="binaryGeo.model"/>
+		<frequencyModel id="binaryGeo.root.frequencyModel" normalize="true">
+			<generalDataType idref="binaryGeo.dataType"/>
+			<frequencies>
+				<parameter id="binaryGeo.root.frequencies" dimension="2"/>
+			</frequencies>
+		</frequencyModel>		
+	</ancestralTreeLikelihood>
+	<ancestralTreeLikelihood id="species.treeLikelihood" stateTagName="species.states">
+		<attributePatterns idref="species.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="species.siteModel"/>
+		<generalSubstitutionModel idref="species.model"/>
+		<frequencyModel id="species.root.frequencyModel" normalize="true">
+			<generalDataType idref="species.dataType"/>
+			<frequencies>
+				<parameter id="species.root.frequencies" dimension="4"/>
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+
+	<operators id="operators" optimizationSchedule="log">
+		<empiricalTreeDistributionOperator weight="1">
+			<empiricalTreeDistributionModel idref="treeModel"/>
+		</empiricalTreeDistributionOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="binaryGeo.rates"/>
+		</scaleOperator>
+		<!--
+		<bitFlipOperator weight="7">
+			<parameter idref="binaryGeo.indicators"/>
+		</bitFlipOperator>
+		-->
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="species.rates"/>
+		</scaleOperator>
+		<!--
+		<bitFlipOperator weight="7">
+			<parameter idref="species.indicators"/>
+		</bitFlipOperator>
+		-->
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="binaryGeo.root.frequencies"/>
+		</deltaExchange>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="species.root.frequencies"/>
+		</deltaExchange>		
+	</operators>
+	<mcmc id="mcmc" chainLength="20000000" autoOptimize="true" operatorAnalysis="UP_HostGeoTraits.ops">
+		<posterior id="posterior">
+			<prior id="prior">
+				<poissonPrior mean="1.0" offset="1.0">
+					<statistic idref="binaryGeo.nonZeroRates"/>
+				</poissonPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="binaryGeo.frequencies"/>
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="binaryGeo.rates"/>
+					</gammaPrior>
+					<parameter idref="binaryGeo.rates"/>
+				</cachedPrior>
+				<poissonPrior mean="5.0" offset="0.0">
+					<statistic idref="species.nonZeroRates"/>
+				</poissonPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="species.frequencies"/>
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="species.rates"/>
+					</gammaPrior>
+					<parameter idref="species.rates"/>
+				</cachedPrior>
+				<generalSubstitutionModel idref="binaryGeo.model"/>
+				<generalSubstitutionModel idref="species.model"/>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="binaryGeo.root.frequencies"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="species.root.frequencies"/>
+				</uniformPrior>				
+			</prior>
+			<likelihood id="likelihood">
+				<ancestralTreeLikelihood idref="binaryGeo.treeLikelihood"/>
+				<ancestralTreeLikelihood idref="species.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="5000">
+			<column label="Posterior" dp="4" width="12">
+				<posterior idref="posterior"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			<column label="binaryGeo.nonZeroRates" sf="6" width="12">
+				<sumStatistic idref="binaryGeo.nonZeroRates"/>
+			</column>
+			<column label="species.nonZeroRates" sf="6" width="12">
+				<sumStatistic idref="species.nonZeroRates"/>
+			</column>
+		</log>
+
+		<log id="fileLog" logEvery="5000" fileName="UP_HostGeoTraits.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="binaryGeo.rates"/>
+			<parameter idref="binaryGeo.indicators"/>
+			<sumStatistic idref="binaryGeo.nonZeroRates"/>
+			<productStatistic idref="binaryGeo.actualRates"/>
+			<parameter idref="species.rates"/>
+			<parameter idref="species.indicators"/>
+			<sumStatistic idref="species.nonZeroRates"/>
+			<productStatistic idref="species.actualRates"/>
+		</log>
+
+		<log id="AllU_HostGeoTraits.binaryGeorateMatrixLog" logEvery="5000" fileName="UP_binaryGeorates.log">
+			<parameter idref="binaryGeo.rates"/>
+			<parameter idref="binaryGeo.indicators"/>
+			<sumStatistic idref="binaryGeo.nonZeroRates"/>
+			<productStatistic idref="binaryGeo.actualRates"/>			
+		</log>
+		<log id="AllU_HostGeoTraits.speciesrateMatrixLog" logEvery="5000" fileName="UP_speciesrates.log">
+			<parameter idref="species.rates"/>
+			<parameter idref="species.indicators"/>
+			<sumStatistic idref="species.nonZeroRates"/>
+			<productStatistic idref="species.actualRates"/>
+		</log>
+		
+		<logTree id="treeFileLog" logEvery="5000" nexusFormat="true" fileName="UP_HostGeoTraits.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<posterior idref="posterior"/>
+			<trait name="binaryGeo.states" tag="binaryGeo">
+				<ancestralTreeLikelihood idref="binaryGeo.treeLikelihood"/>
+			</trait>
+			<trait name="species.states" tag="species">
+				<ancestralTreeLikelihood idref="species.treeLikelihood"/>
+			</trait>
+		</logTree>
+	</mcmc>
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>
