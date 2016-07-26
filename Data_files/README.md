@@ -1,5 +1,4 @@
-### This repo contains FASTA format input files used in the maximum likelihood, coalescent, and phylogeographic analyses presented in
-"Geography and host species shape the evolutionary dynamics of U genogroup infectious hematopoietic necrosis virus”. 
+### This repo contains FASTA format input files used in the maximum likelihood, coalescent, and phylogeographic analyses presented in "Geography and host species shape the evolutionary dynamics of U genogroup infectious hematopoietic necrosis virus”. 
 
 * 114UniqueSeqs.txt
 
