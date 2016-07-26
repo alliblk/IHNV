@@ -4,13 +4,11 @@ This repo contains data and code used for evolutionary analysis of Infectious He
 
 ### Data Files
 
-Data files are .txt files with fasta formatted sequences. 
+Data files are .txt files with fasta formatted sequences. You can find them [here](https://github.com/alliblk/IHNVcode/tree/master/Data_files) 
 The files contain aligned sequences. Each sequence is 303nt long.
 Each taxon name contains the isolation year, the unique sequence identifier, the subgroup, and a random number so that no taxon names repeat in that order.
 This repo contains the following data files:
-* 114 unique U genogroup sequence types detected within the study, plus an outgroup taxon. [114UniqueSeqs.txt](https://github.com/alliblk/IHNVcode/blob/master/MaxLikelihood/114UniqueSeqs.txt)
-* All 619 U events, sorted by date. [AllUEvents.txt](https://github.com/alliblk/IHNVcode/blob/master/BEAST/All_U_Tree/AllUEvents.txt)
-* Additional files with only [UC events](https://github.com/alliblk/IHNVcode/blob/master/BEAST/UC_tree/UC_events.txt) or only [UP events](https://github.com/alliblk/IHNVcode/blob/master/BEAST/UP_tree/UP_events.txt) for use in ancestral state reconstruction.
+
 
 
 ### Analysis
@@ -39,11 +37,11 @@ Bayesian Skyline Reconstruction was performed in Tracer, and the data files were
 Plotting was performed in R using [SkylinePlotCode.R](https://github.com/alliblk/IHNVcode/blob/master/R_Code/SkylinePlotCode.R)
 
 
-##### Ancestral State Reconstruction
+##### Coalescent Phylogenies and Ancestral State Reconstruction
 
-* XMLs for performing the ancestral state reconstruction analysis can be found in the [Ancestral_State_Recon](https://github.com/alliblk/IHNVcode/tree/master/BEAST/Ancestral_State_Recon) file. There are 2 xmls, one for UC and one for UP. Note that these XMLs make use of .trees files generated under a standard coalescent analysis performed for UC and UP separately. See [UC_tree](https://github.com/alliblk/IHNVcode/tree/master/BEAST/UC_tree) or [UP_tree](https://github.com/alliblk/IHNVcode/tree/master/BEAST/UP_tree) for data and XMLs.
-* Geographic traits (either CRB or coastal) for all 619 U taxa can be found in [GeoTraitMap_AllU.txt](https://github.com/alliblk/IHNVcode/blob/master/BEAST/Ancestral_State_Recon/GeoTraitMap_AllU.txt)
-* Host traits (chinook, non-dominant, mykiss, or nerka) for all 619 U taxa can be found in [HostSppTraitMap_AllU.txt](https://github.com/alliblk/IHNVcode/blob/master/BEAST/Ancestral_State_Recon/HostSppTraitMap_AllU.txt)
+The primary analysis is done on the full events dataset, [this repo here](https://github.com/alliblk/IHNVcode/tree/master/BEAST_fullData)
+
+The secondary analysis is done on an equitably subsampled dataset. The ipython notebook for doing the subsampling [can be found here](https://github.com/alliblk/IHNVcode/blob/master/Python_Code/Equitable_Event_Subsampling.ipynb). The repo with the XMLs for the subsampled analysis can be found [here](https://github.com/alliblk/IHNVcode/tree/master/BEAST_subsampledData).
 
 
 
